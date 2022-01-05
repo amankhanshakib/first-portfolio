@@ -1,0 +1,131 @@
+body {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    background-color: darkgry;
+}
+#c2{
+    font-size: 50px;
+    border-left: 5px solid tomato;
+    padding-left: 10px;
+    border-left: 3px solid;
+    border-image: linear-gradient(to bottom, rgba(250, 73, 3, 0) 13%,rgba(252, 63, 6, 0.76) 12%,rgba(252, 63, 6, 0.918) 87%,rgba(248, 86, 11, 0) 75%);
+    border-image-slice: 1;
+}
+.f8{
+    color: rgba(250, 158, 53, 0.692);
+}
+.stay{
+    display: flex;
+    margin: 0 0 100px 0;
+    padding-left: 5%;
+}
+.explore{
+    margin-top: 200px;
+    margin-left: 80px;
+    padding-top: 90px;
+}
+.person-0{
+    width: 100%;
+    padding-left: 5%;
+    margin-top: 50px;
+}
+.person-0 img{
+    width: 60%;
+    float: right;
+    margin: -20px 150px 0 0;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: 40px;
+    background-color: rgba(177, 51, 51, 0.863);
+    padding: 10px 40px;
+    border-radius: 7px;
+}
+#c3{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(8, 14, 71);
+}
+  .main{
+    display: flex;
+    width: 85%;
+    margin: 0 150px 0 150px;
+}
+.main #sab{
+    width: 100%;
+    background-color: rgb(177, 197, 196);
+    margin: 20px ;
+    padding: 5%;
+    border-radius: 20px;
+}
+.main #sab img{
+    width: 100%;
+    float: left;
+}
+.main #seb{
+    width: 100%;
+    background-color: rgb(197, 177, 186);
+    margin: 20px ;
+    padding: 5%;
+    border-radius: 20px;
+}
+.main #seb img{
+    width: 100%;
+    float: left;
+}
+.main #sub{
+    width: 100%;
+    background-color: rgb(197, 194, 177);
+    margin: 20px;
+    padding: 5%;
+    border-radius: 20px;
+}
+.main #sub img{
+    width: 100%;
+    float: left;
+}
+.code{
+    display: flex;
+    margin: 140px 10px 140px 0px;
+    padding-left: 2%;
+    width: 92%;
+}
+#c4{
+    font-size: 30px;
+}
+.coding{
+    width: 100%;
+    padding-left: 5%;
+    margin-right: 40px;
+    margin-left: -30px;
+}
+.coding img{
+    width: 90%;
+    float: right;
+    margin-left: px;
+}
+.documentation{
+    margin-top: 180px;
+    margin-left: 80px;
+}
+.per{
+    width: 90%;
+    padding-left: 5%;
+    margin-top: 50px;
+}
+.per img{
+    width: 90%;
+    float: right;
+    margin: 20px 100px 0 0;
+}
+footer{
+    font-family: 'Luxurious Roman', cursive;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+#a8{
+    color: brown;
+}
