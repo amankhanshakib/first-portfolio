@@ -99,6 +99,10 @@ a{
     padding-left: 5%;
     margin-right: 40px;
     margin-left: -30px;
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left 0% top 27%;
+    background-size: 50%;
 }
 .coding img{
     width: 90%;
@@ -113,11 +117,16 @@ a{
     width: 90%;
     padding-left: 5%;
     margin-top: 50px;
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position:  right 0% bottom 0%;
+    background-size: 50%;
 }
 .per img{
-    width: 90%;
+    width: 80%;
     float: right;
-    margin: 20px 100px 0 0;
+    margin: 20px 180px 100px 0;
+    padding-bottom: 10%;
 }
 footer{
     font-family: 'Luxurious Roman', cursive;
@@ -131,4 +140,64 @@ footer{
 }
 .a2{
     background-color: brown;
+}
+.align{
+    text-align: center;
+    margin: 0px 40px;
+    padding: 0px 40px;
+}
+.flex{
+    display: flex;
+    width: 40%;
+    margin-left: 20px;
+}
+.form{
+    margin-bottom: 50px;
+}
+.name input{
+    display: block;
+    width: 550px;
+    margin-left: 300px;
+    margin-top: 30px;
+    padding: 10px;
+}
+.massage input{
+    display: block;
+    width: 410px;
+    margin-left: 300px;
+    margin-top: 30px;
+    padding: 80px;
+}
+.icon{
+    width: 45%;
+    margin-top: 25px;
+    margin-right: 70px;
+    margin-left: 70px;
+    margin-bottom: 70px;
+    padding: 0px;
+}
+#I{
+    padding-bottom: 40px;
+    margin-left: 20PX;
+}
+#M{
+    padding-bottom: 40px;
+    margin-left: 20PX;
+}
+#N{
+    padding-bottom: 40px;
+    margin-left: 20PX;
+}
+#L{
+    padding-bottom: 40px;
+    margin-left: 20PX;
+}
+button{
+    display: block;
+    width: 200px;
+    margin-left: 300px;
+    margin-top: 30px;
+    padding: 8px;
+    background-color: rgb(238, 223, 17);
+    border-radius: 10px;
 }
